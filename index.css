@@ -1,0 +1,18 @@
+body {
+  color: forestgreen;
+  background-color: black;
+}
+
+.logo img {
+  height: 100px;
+  width: 100px;
+}
+
+button {
+  color: forestgreen;
+  background-color: rgb(31, 31, 31);
+}
+
+.photo img {
+  width: 300px;
+}
